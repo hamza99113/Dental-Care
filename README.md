@@ -1,4 +1,4 @@
-# Dental-Care
+# Dental-Care (Static Page)
 Languages and Frameworks used in this project.
 - HTML
 - CSS 
