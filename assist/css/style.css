@@ -458,18 +458,18 @@
     margin-bottom: 80px;
 }
 .news-img1 {
-    background-image: url("/images/bacteria.jpg");
+    background-image: url("../../images/bacteria.jpg");
     background-size: cover;
     height: 300px;
 }
 .news-img2 {
-    background-image: url("/images/brush.jpg");
+    background-image: url("../../images/brush.jpg");
     background-size: cover;
     height: 300px;
     background-position: center;
 }
 .news-img3 {
-    background-image: url("/images/drink.jpg");
+    background-image: url("../../images/drink.jpg");
     background-size: cover;
     height: 300px;
     background-position: center;
